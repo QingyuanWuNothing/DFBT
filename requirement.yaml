@@ -1,0 +1,6 @@
+torch==2.0.1
+tensorboard==2.14.1
+tensorboardX==2.6.2.2
+tqdm==4.66.1
+rich==13.5.3
+numpy==1.24.4

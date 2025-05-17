@@ -1,5 +1,5 @@
 
-# Directly Forecasting Belief for Reinforcement Learning with Delays
+# DFBT: Directly Forecasting Belief for Reinforcement Learning with Delays
 
 ### 0. requirements
     conda create -n dfbt python=3.10
